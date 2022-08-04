@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f035794-fbf7-4af4-b6b3-5cc4a34ddc39" name="Changes" comment="" />
+    <list default="true" id="8f035794-fbf7-4af4-b6b3-5cc4a34ddc39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659598911180</updated>
-      <workItem from="1659598912365" duration="1798000" />
+      <workItem from="1659598912365" duration="2097000" />
     </task>
     <servers />
   </component>
@@ -58,19 +60,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
